@@ -1,8 +1,8 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "versioncode": 41000,
-    "versionname": "4.1.0-dev",
+    "app_id": "com.moodle.oswaalbooks",
+    "appname": "Oswaal Books",
+    "versioncode": 10000,
+    "versionname": "1.0.0-dev",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -65,27 +65,15 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
         "medium": 110,
         "high": 120
     },
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "customurlscheme": "oswaal",
+    "siteurl": "https://oblpl.in/",
+    "sitename": "Oswaal Books",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
@@ -99,7 +87,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "com.moodle.oswaalbooks",
         "ios": "id633359593"
     },
     "wsrequestqueuelimit": 10,
