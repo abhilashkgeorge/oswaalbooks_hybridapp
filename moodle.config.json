@@ -1,6 +1,6 @@
 {
     "app_id": "com.moodle.oswaalbooks",
-    "appname": "Oswaal Books",
+    "appname": "Oswaal360",
     "versioncode": 10000,
     "versionname": "1.0.0-dev",
     "cache_update_frequency_usually": 420000,
@@ -71,7 +71,7 @@
         "medium": 110,
         "high": 120
     },
-    "customurlscheme": "oswaal",
+    "customurlscheme": "oswaal360",
     "siteurl": "https://oblpl.in/",
     "sitename": "Oswaal Books",
     "multisitesdisplay": "",

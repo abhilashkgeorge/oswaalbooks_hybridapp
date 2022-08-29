@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="10000" id="com.moodle.oswaalbooks" ios-CFBundleVersion="1.0.0.0" version="1.0.0-dev" versionCode="10000" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Oswaal Books</name>
-    <description>Learning that empowers you at every step</description>
-    <author email="Meenakshi@oswaalbooks.com" href="https://oblpl.in/">Oswaal Mobile team</author>
+    <name>Oswaal360</name>
+    <description>Learning made simple</description>
+    <author email="Meenakshi@oswaalbooks.com" href="https://oswaal360.com/">Oswaal360 team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
