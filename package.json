@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "4.1.0-dev",
-  "description": "The official app for Moodle.",
+  "name": "Oswaal360",
+  "version": "1.0.0-dev",
+  "description": "Learning made simple.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Meenakshi",
+    "email": "Meenakshi@oswaalbooks.com"
   },
   "repository": {
     "type": "git",
@@ -201,7 +201,7 @@
       },
       "cordova-plugin-chooser": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "oswaal",
+        "URL_SCHEME": "oswaal360",
         "ANDROID_SCHEME": " ",
         "ANDROID_HOST": " ",
         "ANDROID_PATHPREFIX": "/"
