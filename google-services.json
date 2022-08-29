@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:396562918745:android:4d1f567948bd0c51bc7048",
+        "mobilesdk_app_id": "1:396562918745:android:c211f3ac396092d3bc7048",
         "android_client_info": {
-          "package_name": "com.moodle.oswaal360"
+          "package_name": "com.moodle.oswaalbooks"
         }
       },
       "oauth_client": [
